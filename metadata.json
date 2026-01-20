@@ -1,0 +1,5 @@
+{
+  "name": "Drishti AI - 2D/3D Image Creator",
+  "description": "A sophisticated image generation application supporting English and Hindi prompts to create stunning 2D illustrations and 3D renders using the Gemini API.",
+  "requestFramePermissions": []
+}
